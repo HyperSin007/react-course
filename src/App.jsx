@@ -6,7 +6,7 @@ import TodoList from './TodoList';
 function App() {
   return (
     <Router>
-      <div>
+      <div id="main">
         <nav>
           <ul>
             <li>
